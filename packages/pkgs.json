@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/peripherals/at24cxx", 
+  "ver": "latest", 
+  "name": "AT24CXX"
+ }, 
+ {
+  "path": "/packages/peripherals/beep", 
+  "ver": "v1.1.0", 
+  "name": "BEEP"
+ }, 
+ {
+  "path": "/packages/peripherals/ssd1306", 
+  "ver": "latest", 
+  "name": "SSD1306"
+ }
+]
